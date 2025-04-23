@@ -71,7 +71,7 @@ This is portal to add new entries
 ![Alt text](3rd.png)
 
 ![Alt text](4th.png)
-**This is the calender**
+**This is the Reminder**
 
 ![Alt text](5th.png)
 
