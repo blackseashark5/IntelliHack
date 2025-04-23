@@ -64,6 +64,10 @@ THIS IS THE DASHBOARD -->>
 
 ![Alt text](1st.png)
 
-
 ![Alt text](2nd.png)
+.
+This is portal to add new entries 
+.
+![Alt text](3rd.png)
+
 
