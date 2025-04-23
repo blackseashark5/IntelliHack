@@ -64,3 +64,6 @@ THIS IS THE DASHBOARD -->>
 
 ![Alt text](1st.png)
 
+
+![Alt text](2nd.png)
+
