@@ -70,4 +70,8 @@ This is portal to add new entries
 .
 ![Alt text](3rd.png)
 
+![Alt text](4th.png)
+
+![Alt text](5th.png)
+
 
