@@ -60,14 +60,14 @@ This CRM system includes:
 
 **Live Demo:** [https://snazzy-taiyaki-2a761b.netlify.app/calendar]
 
-THIS IS THE DASHBOARD -->>
+**THIS IS THE DASHBOARD -->>**
 
 ![Alt text](1st.png)
 
 ![Alt text](2nd.png)
-.
+**.
 This is portal to add new entries 
-.
+.**
 ![Alt text](3rd.png)
 
 ![Alt text](4th.png)
