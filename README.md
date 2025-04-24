@@ -58,7 +58,7 @@ This CRM system includes:
 
 ## 🌐 Project Link
 
-**Live Demo:** [https://snazzy-taiyaki-2a761b.netlify.app/calendar]
+**Live Demo:** [https://fantastic-kataifi-31b4e4.netlify.app/]
 
 **THIS IS THE DASHBOARD -->>**
 
